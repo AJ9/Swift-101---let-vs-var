@@ -4,6 +4,7 @@
  
  Explaining the difference between `let` and `var`.
  */
+
 import UIKit
 
 //let variables
