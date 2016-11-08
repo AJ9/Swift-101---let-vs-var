@@ -1,5 +1,9 @@
-//: Playground - noun: a place where people can play
-
+/*:
+ # Swift 101 - let vs var
+ http://aj9.co.uk/let-vs-var
+ 
+ Explaining the difference between `let` and `var`.
+ */
 import UIKit
 
 //let variables
