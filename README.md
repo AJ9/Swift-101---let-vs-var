@@ -1,5 +1,5 @@
 # Swift 101 - let vs var
-The supplementary Swift Playground to [Swift 101 - let vs var](http://aj9.co.uk/let-vs-var)
+The supplementary Swift Playground to [Swift 101 - let vs var](http://aj9.co.uk/let-vs-var).
 
 Code:
 
