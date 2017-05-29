@@ -1,12 +1,12 @@
 # Swift 101 - let vs var
-The supplementary Swift Playground to [Swift 101 - let vs var](http://aj9.co.uk/let-vs-var).
+The supplementary Swift Playground to [Swift 101 - let vs var](https://medium.com/pretty-swifty/swift-101-let-vs-var-915eb9766c64).
 
 Code:
 
 ```swift
 /*:
  # Swift 101 - let vs var
- http://aj9.co.uk/let-vs-var
+ https://medium.com/pretty-swifty/swift-101-let-vs-var-915eb9766c64
  
  Explaining the difference between `let` and `var`.
  */
